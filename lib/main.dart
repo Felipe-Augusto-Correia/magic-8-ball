@@ -25,10 +25,15 @@ class _BallState extends State<Ball> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blueGrey,
+      backgroundColor: Color(0xff3B2577),
       appBar: AppBar(
-        backgroundColor: Colors.grey[500],
-        title: Text('Ask Me Anything'),
+        backgroundColor: Color(0xff312B47),
+        title: Text(
+          'Ask Me Anything',
+          style: TextStyle(
+            fontSize: 26,
+          ),
+        ),
         centerTitle: true,
       ),
       // ignore: deprecated_member_use
