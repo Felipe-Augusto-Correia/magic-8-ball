@@ -3,16 +3,11 @@
 
 # Magic 8 Ball 🎱
 
-## Our Goal
+Ess App foi realizado durante o curso bootcamp de flutter da App Brewery.
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+Você pode perguntar qualquer coisa ao App e ao clicar no botão no meio da tela, ele te respondera.
 
-
-## App
-
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+![magic-8-ball](https://user-images.githubusercontent.com/51971892/117356091-bed03200-ae89-11eb-884d-9cd2fe93ef11.PNG)
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
