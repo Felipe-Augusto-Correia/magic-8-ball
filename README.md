@@ -3,9 +3,13 @@
 
 # Magic 8 Ball 🎱
 
-Ess App foi realizado durante o curso bootcamp de flutter da App Brewery.
-
+Esse App foi realizado durante o curso bootcamp de flutter da App Brewery.
 Você pode perguntar qualquer coisa ao App e ao clicar no botão no meio da tela, ele te respondera.
+
+***
+
+This App was made during the App Brewery's bootcamp flutter course.
+You can ask the App anything and when you click the button in the middle of the screen, it will answer you.
 
 ![magic-8-ball](https://user-images.githubusercontent.com/51971892/117356091-bed03200-ae89-11eb-884d-9cd2fe93ef11.PNG)
 
